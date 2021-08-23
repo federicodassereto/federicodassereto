@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @federicodassereto
 - 👀 I’m interested in databases, computer science and football 
-- 🌱 I’m currently learning hwo to become a data scientist
+- 🌱 I’m currently learning how to become a data scientist
 - 💞️ I’m looking to collaborate on table augmentation in data lakes
 - 📫 How to reach me federico.dassereto@edu.unige.it
 
